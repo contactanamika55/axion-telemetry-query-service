@@ -10,7 +10,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  # Evaluates to 'asign796/axion-telemetry-query-service'
+  # Evaluates to 'contactanamika55/axion-telemetry-query-service'
   IMAGE_NAME: contactanamika55/axion-telemetry-query-service
 
 jobs:

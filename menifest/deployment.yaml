@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: telemetry-query-deployment
-        image: ghcr.io/contactanamika55/axion-telemetry-query-service:18e6213
+        image: ghcr.io/contactanamika55/axion-telemetry-query-service:a1e1d79
         resources:
           requests:
             memory: "64Mi"
